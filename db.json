@@ -58,32 +58,7 @@
           "id": "74820",
           "orderCode": "0111",
           "itemName": "人参　500g"
-        },
-        {
-          "id": "74821",
-          "orderCode": "0112",
-          "itemName": "人参　1kg"
-        },
-        {
-          "id": "74822",
-          "orderCode": "0113",
-          "itemName": "さつま芋（紅東）700ｇ"
-        },
-        {
-          "id": "74823",
-          "orderCode": "0114",
-          "itemName": "さつま芋（紅東）徳用1.4kg"
-        },
-        {
-          "id": "74824",
-          "orderCode": "0115",
-          "itemName": "さつまいも（紅はるか）"
-        },
-        {
-          "id": "74825",
-          "orderCode": "0116",
-          "itemName": "さつまいも（紅はるか）徳用"
-        },
+        }
 
       ]
     }
